@@ -1,0 +1,30 @@
+{
+    "name": "nodemailer-express-snippet",
+    "displayName": "nodemailer-express-snippet",
+    "description": "Simple nodemailer and express starter code generator",
+    "version": "19.0.0",
+    "author": "Divine Nature",
+    "publisher": "Divine Nature",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/dnature/nodemailer-express-extension"
+    },
+    "icon": "nodemailer.png",
+    "engines": {
+        "vscode": "^1.29.0"
+    },
+    "categories": [
+        "Snippets"
+    ],
+    "contributes": {
+        "snippets": [{
+                "language": "javascript",
+                "path": "./snippets/snippets.json"
+            },
+            {
+                "language": "nodejs",
+                "path": "./snippets/snippets.json"
+            }
+        ]
+    }
+}
