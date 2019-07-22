@@ -1,6 +1,6 @@
 {
-    "name": "nodemailer-express-snippet",
-    "displayName": "nodemailer-express-snippet",
+    "name": "nodemailer-express-extension",
+    "displayName": "nodemailer-express-extension",
     "description": "Simple nodemailer and express starter code generator",
     "version": "19.0.0",
     "author": "Divine Nature",
