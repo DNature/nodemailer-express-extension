@@ -1,0 +1,17 @@
+{
+    "manifestVersion": "1",
+    "id": "nodemailer-express-extension",
+    "version": "19.0.0",
+    "publisher": "Divine_Nature",
+    "description": "Provides code snippet which enable developers to spend less time writting codes from scratch",
+    "icons": {
+        "default": "nodemailer.png"
+    },
+    "target": [
+        { "id": "microsoft.visualStudio.services" }
+    ],
+    "tags": [
+        "shortcuts"
+    ]
+
+}
