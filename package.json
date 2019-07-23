@@ -4,7 +4,7 @@
     "description": "Simple nodemailer and express starter code generator",
     "version": "19.0.1",
     "author": "Divine_Nature",
-    "publisher": "Divine_Nature",
+    "publisher": "nodemailer-express-extension",
     "repository": {
         "type": "git",
         "url": "https://github.com/dnature/nodemailer-express-extension"
