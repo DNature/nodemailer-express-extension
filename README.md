@@ -1,5 +1,9 @@
 # nodemailer-express-snippet README
 
+## author
+
+-- Divine Nature (https://www.github.com/dnature)
+
 ## VS Code nodemailer and express snippets
 
 ## Installation
