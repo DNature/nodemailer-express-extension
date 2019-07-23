@@ -17,7 +17,8 @@
         "Snippets"
     ],
     "contributes": {
-        "snippets": [{
+        "snippets": [
+            {
                 "language": "javascript",
                 "path": "./snippets/snippets.json"
             },
@@ -26,5 +27,8 @@
                 "path": "./snippets/snippets.json"
             }
         ]
+    },
+    "dependencies": {
+        "vset": "^0.5.0"
     }
 }
